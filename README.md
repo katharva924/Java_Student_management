@@ -1,2 +1,3 @@
-# Java_Student_management
-Java Student Management System project
+# Java Student Management System (Console + JDBC + SQLite)
+
+See README in conversation for full instructions.
